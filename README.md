@@ -25,4 +25,5 @@ Forecasts for a variety of linear and non-linear methods and models.
       <li>Triple Exponential</li>
     </ol>
     <li><strong>Stationary– ADF Test</strong> 
+    <li><strong>Comparative Analysis of Autoregressive, Moving Average and Auto regressive Integrated Moving Average.</strong> 
 </ol>
