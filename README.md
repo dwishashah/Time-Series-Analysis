@@ -18,4 +18,10 @@ Forecasts for a variety of linear and non-linear methods and models.
     <li>
       <strong>Implementation of Data Wrangling and Preparation for Time Series Data.</strong>
     </li>
+  <li><strong> Smoothening Methods:</strong> 
+    <ol>
+      <li>Simple Exponential</li> 
+      <li>Double Exponential</li>
+      <li>Triple Exponential</li>
+    </ol>
 </ol>
