@@ -24,4 +24,5 @@ Forecasts for a variety of linear and non-linear methods and models.
       <li>Double Exponential</li>
       <li>Triple Exponential</li>
     </ol>
+    <li><strong>Stationary– ADF Test</strong> 
 </ol>
