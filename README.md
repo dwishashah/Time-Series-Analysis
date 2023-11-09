@@ -15,4 +15,7 @@ Forecasts for a variety of linear and non-linear methods and models.
       <li>Seasonal Decomposition(Additive and Multiplicative)</li>
       <li>Detecting Cyclic Variations</li>
     </ol>
+    <li>
+      <strong>Implementation of Data Wrangling and Preparation for Time Series Data.</strong>
+    </li>
 </ol>
